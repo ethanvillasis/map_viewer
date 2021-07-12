@@ -10,4 +10,4 @@ Invite sent to recruit@westacton.jp
 5. To specifically add a Pin, use the input boxes below the map to supply the Geolocation.
 
 NOTE: Google is constantly updating their apps and right now they are requiring to attach a billing info to the API's. Plase see snapshot below:
-You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started
+![image](https://user-images.githubusercontent.com/70739899/125232133-93951380-e30e-11eb-8d1b-784a98aa9130.png)
