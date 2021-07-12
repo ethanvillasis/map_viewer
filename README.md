@@ -8,3 +8,6 @@ Invite sent to recruit@westacton.jp
 
 4. By default, the IP that is set in line #19 is my personal IP. It will determine the initial display of the map.
 5. To specifically add a Pin, use the input boxes below the map to supply the Geolocation.
+
+NOTE: Google is constantly updating their apps and right now they are requiring to attach a billing info to the API's. Plase see snapshot below:
+You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started
